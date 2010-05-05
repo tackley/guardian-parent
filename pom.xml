@@ -117,8 +117,8 @@
     </distributionManagement>
 
     <scm>
-        <connection>scm:git:http://github.com/tackley/guardian-parent</connection>
-        <developerConnection>scm:git:git@github.com:tackley/guardian-parent</developerConnection>
+        <connection>scm:git:http://github.com/tackley/guardian-parent.git</connection>
+        <developerConnection>scm:git:git://git@github.com/tackley/guardian-parent.git</developerConnection>
 	<url>http://github.com/tackley/guardian-parent</url>
     </scm>
 
