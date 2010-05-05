@@ -112,7 +112,7 @@
     <distributionManagement>
         <repository>
             <id>tackley-github-releases</id>
-            <url>file:///${basedir}/../tackley.github.com</url>
+            <url>file:///${basedir}/../../../tackley.github.com/maven/repo-releases</url>
         </repository>
     </distributionManagement>
 
