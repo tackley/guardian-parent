@@ -110,9 +110,11 @@
     </profiles>
 
     <distributionManagement>
+        <!-- to do a release, you will need to clone  git@github.com:tackley/tackley.github.com.git
+         to a directory under your home directory.  After release:perform, add commit & push -->
         <repository>
-            <id>tackley-github-releases</id>
-            <url>file:///${basedir}/../../../tackley.github.com/maven/repo-releases</url>
+            <id>guardian-github-releases</id>
+            <url>file:///${user.home}/tackley.github.com/maven/repo-releases</url>
         </repository>
     </distributionManagement>
 
